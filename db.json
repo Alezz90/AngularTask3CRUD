@@ -1,0 +1,34 @@
+{
+  "Fruits": [
+    {
+      "id": 1,
+      "name": "Orang",
+      "quantity": 6,
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "gr",
+      "price": 0.6,
+      "quantity": 0.5
+    },
+    {
+      "id": 5,
+      "name": "Mango",
+      "price": 3,
+      "quantity": "2pc"
+    },
+    {
+      "id": 6,
+      "name": "",
+      "price": 0,
+      "quantity": "0"
+    },
+    {
+      "id": 7,
+      "name": "Mango",
+      "price": 99,
+      "quantity": "7k"
+    }
+  ]
+}
